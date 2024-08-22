@@ -6,6 +6,7 @@ public class Mago {
     private static final int DANO_ESPADACHIN = 10;
     private static final int DANO_LADRON = 20;
     private static final int VIDA_POR_DEFECTO = 100;
+    
 
     public Mago(String nombre, int vida) {
         this.nombre = nombre;
